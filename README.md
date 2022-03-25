@@ -11,10 +11,10 @@ Cold Code would like to present "Snowflakes". A multiplayer sanction currency sy
 Imagine you join a round of Rocket League or any other round based game. At the beginning of the match there would be a pool of 100 Snowflakes. These Snowflakes are to be distributed fairly between all players currently playing in the match. 
 However, if one player is being rude, racist or is showing any other kind of disruptive behaviour, he is forfeiting his fair share of the Snowflakes automatically. If it's a light offense he might lose up to five snowflakes, if he's being particularly toxic he could lose his privilege to all Snowflakes in that round. 
 These Snowflakes are not lost, instead they are being redistributed between the other players in the match. This way there's no one being punished, it is clear from the beginning, that one would surrender their right to Snowflakes if you were to be disruptive. Instead of being punished, they are simply not rewarded, all the while adding to the Snowflake pouch of the person they're being disruptive to. 
-It might seem that the best thing to do as a player in this environment is to just keep quiet so that you don't risk being offensive. That is of course not the goal at hand. We want to foster a positive community, motivating them to share their positive mindset. This is why people begin with a certain "rudeness"
+It might seem that the best thing to do as a player in this environment is to just keep quiet so that you don't risk being offensive. That is of course not the goal at hand. We want to foster a positive community, motivating them to share their positive mindset. This is why people begin with a certain niceness score that is not completely full. Meaning that quiet people get rewarded slightly less Snowflakes than people which contribute positively to the community.
 
 # Rewards
-Well of course, Snowflakes, or any currency for that matter, don't mean anything without some kind of value behind them. This is why Game Companies can exchange exclusive content like Weapon, Car or Hero Skins, Emotes or anything of the sort for Snowflakes from the players. Wouldn't this just be a lot more work with little return for the Companies, you might ask. 
+Well of course Snowflakes, or any currency for that matter, don't mean anything without some kind of value behind them. This is why Game Companies can exchange exclusive content like Weapon, Car or Hero Skins, Emotes or anything of the sort for Snowflakes from the players. Wouldn't this just be a lot more work with little return for the Companies, you might ask. 
 Well this is actually a win-win-win-win system. 
 - The players experience a nicer atmosphere in game, because if toxic people hate anything more than not being able to be angry and mad, it would be to give money to the people they're trying to be angry at. 
 - Artists will be employed to create content for Game Studios. 
@@ -24,3 +24,8 @@ Well this is actually a win-win-win-win system.
 The Twist? Snowflakes are not part of any game itself. They are part of Cold Codes Currency System, which is accessible from each game of our partners. This way the Game Developers are even more incentivised to create great content, since it's a competition between all of our partners to have Snowflakes spent in their games.
 
 # Scalability
+This innovative player reward system is insaneably scalable, and we can improve with every new partner that joins the Cold Coin Group. With each new game we can gather more data on toxicity and niceness, providing an even better judgmenet with each new message written. 
+We are also not limited to providing our services to round based games like Rocket Leage, Leage of Legends or DOTA. Take Clash of Clans for example, one "round" might be the span of a day or a half-day. Should you communicate positively during this time the same rules apply and you can gather more Snowflakes than AFK Clanmembers or even rude Clanmembers. 
+This way you can drown out hate-speech and foster a positive environment. For harsh rule breaking there will always still be the Clanleader as well as his Co-Leaders to step in and ban the corresponding person.
+
+# Technical Aspect
