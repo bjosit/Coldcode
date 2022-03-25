@@ -4,7 +4,7 @@ Cold Codes repository for Start Hack 2022
 # Our Idea
 There are lots of punishment and censorship systems in place already. You say a specific bad word online and it will most likely get you censored and/or muted or even banned. It's clear to the average player that punishment for rude behaviour doesn't work. Once you're muted or banned you just get even angrier than before and want to insult the other players in the game even more. Once you're un-muted/banned the average toxic player goes right back to insulting their fellow players.
 
-What we really need isn't harsher punishment, that's just putting oil on the fire, because what is most often enough already, is making the player have some kind of incentive not to be rude online. A positive reinforcement to be a genuinely good contribution to the community. With this 
+What we really need isn't harsher punishment, that's just putting oil on the fire, because what is most often enough already, is making the player have some kind of incentive not to be rude online. A positive reinforcement to be a genuinely good contribution to the community.
 
 # Snowflakes
 Cold Code would like to present "Snowflakes". A multiplayer sanction currency system for toxic in-game behaviour. 
