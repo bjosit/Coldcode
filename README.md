@@ -29,3 +29,5 @@ We are also not limited to providing our services to round based games like Rock
 This way you can drown out hate-speech and foster a positive environment. For harsh rule breaking there will always still be the Clanleader as well as his Co-Leaders to step in and ban the corresponding person.
 
 # Technical Aspect
+Our platform uses state-of-the-art deep neural networking detoxisity AI to detect player player behaviour. This allows us to separate the players with good and bad behaviour. Our Snowflake currency is something we vision as a crypto currency on a blockchain. This would reinforce the legitimacy of the currency.
+All of our code is open source and we intend to stay open source. Most of our code is written python. 
