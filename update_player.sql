@@ -1,10 +1,15 @@
-DROP PROCEDURE IF EXISTS 
-IF EXISTS (SELECT * player_id, iglo.balance FROM iglo WHERE player_id=bjornar)  
-	BEGIN 
-		UPDATE iglo SET balance = (balance + 30) WHERE player_id=bjornar;
-	END  
-	
-	ELSE
-	BEGIN 
-		INSERT INTO iglo (player_id, balance) VALUES (bjornar, 30); 
-	END
+CREATE PROCEDURE `update_balance`(
+	IN `player` VARCHAR(50),
+	IN `tbalance` FLOAT
+)
+LANGUAGE SQL
+NOT DETERMINISTIC
+CONTAINS SQL
+SQL SECURITY DEFINER
+COMMENT ''
+BEGIN
+INSERT INTO iglo (player_id, balance)
+VALUES (@player, @tbalance)
+ON DUPLICATE KEY UPDATE
+   balance = (balance+@tbalance);
+END
